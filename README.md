@@ -5,7 +5,7 @@
 
 Episode 1 of the #JavaScript30 course offered free by Wes Bos.
 
-[https://javascript30.com/] 
+Why don't you take it yourself? https://javascript30.com/] 
 
 ## Why?
 
