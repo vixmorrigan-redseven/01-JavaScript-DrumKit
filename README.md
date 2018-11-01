@@ -5,4 +5,8 @@
 
 Episode 1 of the #JavaScript30 course offered free by Wes Bos.
 
-I am taking this course to get more comfortable and familiar with JavaScript for both professional and personal development reasons. 
+[https://javascript30.com/] 
+
+## Why?
+
+I am completing this course to brush up on my JavaScript skills and to also improve my personal and professional development. 
